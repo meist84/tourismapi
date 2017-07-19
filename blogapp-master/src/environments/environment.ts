@@ -5,14 +5,12 @@
 
 export const environment = {
   production: false,
-  
-  firebase: {
-    apiKey: 'AIzaSyDIOpRLc3SW70VKJkgjSo9lG9Un3cBA1xY',
-    authDomain: 'tourismapi.firebaseapp.com',
-    databaseURL: 'https://tourismapi.firebaseio.com',
-    projectId: 'tourismapi',
-    storageBucket: 'tourismapi.appspot.com',
-    messagingSenderId: '901312406479'
+  firebase : {
+    apiKey: 'AIzaSyB2acFlU8jyXNQw-hGGCGYOEHbJ8J1h08k',
+    authDomain: 'blogng4.firebaseapp.com',
+    databaseURL: 'https://blogng4.firebaseio.com',
+    projectId: 'blogng4',
+    storageBucket: 'blogng4.appspot.com',
+    messagingSenderId: '489253796737'
   }
-  
 };
